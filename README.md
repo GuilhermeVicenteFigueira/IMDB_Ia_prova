@@ -72,7 +72,7 @@ Foi criada uma função responsável por:
 ### 3. Análise Exploratória dos Dados (EDA)
 
 #### Distribuição dos Sentimentos
-O dataset é perfeitamente balanceado, com **25.000 reviews positivas** e **25.000 negativas**.
+O dataset é balanceado, com uma media  **25.000 reviews positivas** e **25.000 negativas**, pois o dataSet tinha 418 registros duplicados.
 
 ![Distribuição de Sentimentos](image/DistribuicaoSentimento.png)
 
@@ -309,7 +309,7 @@ http://localhost:8501
 ## Link do Aplicativo Publicado
 
 ```
-https://SEU-PROJETO.streamlit.app
+https://imdbiaprova-cjh4xzbnizoebvutegmybg.streamlit.app
 ```
 
 ---
