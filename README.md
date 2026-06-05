@@ -221,6 +221,15 @@ projeto/
 ├── data/
 │   └── IMDB Dataset.csv
 │
+├── notebooks/
+│   └── prova.ipynb
+│
+├── image/
+│   └── Imagens do README.md
+│
+├── reports/
+│   └── Relatorio.pdf
+│
 └── README.md
 ```
 
