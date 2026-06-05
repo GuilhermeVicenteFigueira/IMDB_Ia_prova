@@ -1,0 +1,15 @@
+# Framework web
+streamlit
+
+# Manipulação de dados
+pandas
+numpy
+
+# Visualização
+matplotlib
+seaborn
+wordcloud
+
+# Machine Learning
+scikit-learn
+joblib
