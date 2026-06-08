@@ -7,7 +7,7 @@
 | Nome              | RA      |
 | ----------------- | ------- |
 | Guilherme Vicente | 1992017 |
-| Integrante 2      | XXXXXXX |
+| Gabriel Forconi   | 1990563 |
 | Integrante 3      | XXXXXXX |
 
 ---
